@@ -1,1 +1,1 @@
-yfinance
+pip install yfinance
