@@ -1,2 +1,2 @@
 yfinance
-matplotlib.pyplot
+matplotlib
