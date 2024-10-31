@@ -1,5 +1,5 @@
 yfinance
 matplotlib
 plotly
-sklearn
+scikit-learn
 seaborn
