@@ -1,2 +1,5 @@
 yfinance
 matplotlib
+plotly
+sklearn
+seaborn
